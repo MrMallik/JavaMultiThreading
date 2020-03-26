@@ -20,6 +20,7 @@ public class ApplicationAnonymous {
     public static void main(String[] args) {
 
         //This application has been written using Anonymous classes
+        //Read it up later
 
         Thread thread1 = new Thread(new Runnable() {
             @Override
