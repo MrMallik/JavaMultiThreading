@@ -18,6 +18,9 @@ package StartingThreads_1;
 public class ApplicationAnonymous {
 
     public static void main(String[] args) {
+
+        //This application has been written using Anonymous classes
+
         Thread thread1 = new Thread(new Runnable() {
             @Override
             public void run() {
